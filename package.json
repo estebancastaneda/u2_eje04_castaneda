@@ -1,0 +1,22 @@
+{
+  "name": "eje04",
+  "version": "1.0.0",
+  "description": "Ejercicio 04",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebancastaneda/u2_eje04_castaneda.git"
+  },
+  "author": "Esteban Castañeda - Ma. Elena Parra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebancastaneda/u2_eje04_castaneda/issues"
+  },
+  "homepage": "https://github.com/estebancastaneda/u2_eje04_castaneda#readme",
+  "dependencies": {
+    "number-to-words": "^1.2.3"
+  }
+}
